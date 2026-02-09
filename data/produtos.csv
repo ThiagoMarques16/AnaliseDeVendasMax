@@ -1,0 +1,31 @@
+id_produto,nome_produto,categoria,marca,preco,estoque,avaliacao,vendas_mensais,fornecedor,cidade_fornecedor,desconto
+1,Notebook Gamer Pro,Eletrônicos,Dell,7500,15,4.8,22,TechDistribuidora,São Paulo,10
+2,Mouse Sem Fio,Eletrônicos,Logitech,120,80,4.6,150,TechDistribuidora,São Paulo,5
+3,Teclado Mecânico,Eletrônicos,Redragon,350,40,4.7,95,ImportTech,Curitiba,0
+4,Cadeira Gamer,Moveis,DXRacer,1200,10,4.9,18,MoveisBR,Belo Horizonte,15
+5,Monitor 27 Pol,Eletrônicos,Samsung,1800,25,4.5,30,TechDistribuidora,São Paulo,8
+6,Fone Bluetooth,Eletrônicos,JBL,400,60,4.4,110,AudioMax,Rio de Janeiro,12
+7,Smartphone X,Eletrônicos,Samsung,3200,35,4.6,55,MobileTech,Campinas,7
+8,Smartphone Y,Eletrônicos,Xiaomi,2100,50,4.5,70,MobileTech,Campinas,10
+9,Mesa Escritório,Moveis,Multimóveis,900,20,4.3,25,MoveisBR,Belo Horizonte,0
+10,Luminária LED,Decoração,Philips,150,75,4.2,90,LuzLar,Curitiba,5
+11,HD Externo 1TB,Eletrônicos,Seagate,500,45,4.6,60,TechDistribuidora,São Paulo,6
+12,Pen Drive 64GB,Eletrônicos,SanDisk,80,100,4.4,200,ImportTech,Curitiba,0
+13,Cafeteira Elétrica,Eletrodomésticos,Mondial,250,30,4.1,40,EletroLar,Salvador,10
+14,Air Fryer,Eletrodomésticos,Philco,600,22,4.7,35,EletroLar,Salvador,12
+15,Geladeira Frost Free,Eletrodomésticos,Brastemp,3500,8,4.8,12,EletroLar,Salvador,15
+16,Sofá Retrátil,Moveis,Hellen,2800,5,4.9,6,MoveisBR,Belo Horizonte,20
+17,TV 50 Pol,Eletrônicos,LG,2900,18,4.6,28,TechDistribuidora,São Paulo,10
+18,TV 65 Pol,Eletrônicos,Samsung,4800,12,4.8,14,TechDistribuidora,São Paulo,12
+19,Impressora Multifuncional,Eletrônicos,HP,900,26,4.3,33,ImportTech,Curitiba,8
+20,Webcam HD,Eletrônicos,Logitech,220,70,4.5,120,TechDistribuidora,São Paulo,5
+21,Micro-ondas,Eletrodomésticos,Electrolux,700,19,4.4,27,EletroLar,Salvador,10
+22,Guarda-Roupa,Moveis,Multimóveis,1500,9,4.2,11,MoveisBR,Belo Horizonte,15
+23,Ventilador,Decoração,Arno,180,55,4.1,75,LuzLar,Curitiba,0
+24,Aspirador de Pó,Eletrodomésticos,Philco,450,23,4.3,32,EletroLar,Salvador,6
+25,Relógio Smartwatch,Eletrônicos,Xiaomi,350,65,4.6,85,MobileTech,Campinas,10
+26,Tablet 10 Pol,Eletrônicos,Samsung,1600,28,4.5,37,MobileTech,Campinas,8
+27,Cooktop 5 bocas,Eletrodomésticos,Brastemp,1100,14,4.7,20,EletroLar,Salvador,12
+28,Poltrona Decorativa,Moveis,Hellen,950,7,4.8,9,MoveisBR,Belo Horizonte,18
+29,Soundbar,Eletrônicos,JBL,1300,16,4.6,26,AudioMax,Rio de Janeiro,10
+30,Carregador Portátil,Eletrônicos,Anker,140,85,4.5,160,ImportTech,Curitiba,5

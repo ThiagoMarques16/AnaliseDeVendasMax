@@ -1,0 +1,31 @@
+id_produto,nome_produto,categoria,marca,fornecedor,cidade_fornecedor,preco,desconto,preco_com_desconto,vendas_mensais,faturamento_mensal,estoque,status_estoque,avaliacao,faixa_avaliacao,produto_estrategico,potencial_faturamento
+1,Notebook Gamer Pro,Eletrônicos,Dell,Techdistribuidora,São Paulo,7500,10,6750.0,22,148500.0,15,Alerta,4.8,Excelente,Não,101250.0
+2,Mouse Sem Fio,Eletrônicos,Logitech,Techdistribuidora,São Paulo,120,5,114.0,150,17100.0,80,Normal,4.6,Boa,Não,9120.0
+3,Teclado Mecânico,Eletrônicos,Redragon,Importtech,Curitiba,350,0,350.0,95,33250.0,40,Normal,4.7,Excelente,Sim,14000.0
+4,Cadeira Gamer,Moveis,Dxracer,Moveisbr,Belo Horizonte,1200,15,1020.0,18,18360.0,10,Crítico,4.9,Excelente,Não,10200.0
+5,Monitor 27 Pol,Eletrônicos,Samsung,Techdistribuidora,São Paulo,1800,8,1656.0,30,49680.0,25,Alerta,4.5,Boa,Não,41400.0
+6,Fone Bluetooth,Eletrônicos,Jbl,Audiomax,Rio De Janeiro,400,12,352.0,110,38720.0,60,Normal,4.4,Regular,Não,21120.0
+7,Smartphone X,Eletrônicos,Samsung,Mobiletech,Campinas,3200,7,2976.0,55,163680.0,35,Normal,4.6,Boa,Não,104160.0
+8,Smartphone Y,Eletrônicos,Xiaomi,Mobiletech,Campinas,2100,10,1890.0,70,132300.0,50,Normal,4.5,Boa,Não,94500.0
+9,Mesa Escritório,Moveis,Multimóveis,Moveisbr,Belo Horizonte,900,0,900.0,25,22500.0,20,Alerta,4.3,Regular,Não,18000.0
+10,Luminária Led,Decoração,Philips,Luzlar,Curitiba,150,5,142.5,90,12825.0,75,Normal,4.2,Regular,Não,10687.5
+11,Hd Externo 1Tb,Eletrônicos,Seagate,Techdistribuidora,São Paulo,500,6,470.0,60,28200.0,45,Normal,4.6,Boa,Não,21150.0
+12,Pen Drive 64Gb,Eletrônicos,Sandisk,Importtech,Curitiba,80,0,80.0,200,16000.0,100,Normal,4.4,Regular,Não,8000.0
+13,Cafeteira Elétrica,Eletrodomésticos,Mondial,Eletrolar,Salvador,250,10,225.0,40,9000.0,30,Alerta,4.1,Regular,Não,6750.0
+14,Air Fryer,Eletrodomésticos,Philco,Eletrolar,Salvador,600,12,528.0,35,18480.0,22,Alerta,4.7,Excelente,Não,11616.0
+15,Geladeira Frost Free,Eletrodomésticos,Brastemp,Eletrolar,Salvador,3500,15,2975.0,12,35700.0,8,Crítico,4.8,Excelente,Não,23800.0
+16,Sofá Retrátil,Moveis,Hellen,Moveisbr,Belo Horizonte,2800,20,2240.0,6,13440.0,5,Crítico,4.9,Excelente,Não,11200.0
+17,Tv 50 Pol,Eletrônicos,Lg,Techdistribuidora,São Paulo,2900,10,2610.0,28,73080.0,18,Alerta,4.6,Boa,Não,46980.0
+18,Tv 65 Pol,Eletrônicos,Samsung,Techdistribuidora,São Paulo,4800,12,4224.0,14,59136.0,12,Alerta,4.8,Excelente,Não,50688.0
+19,Impressora Multifuncional,Eletrônicos,Hp,Importtech,Curitiba,900,8,828.0,33,27324.0,26,Alerta,4.3,Regular,Não,21528.0
+20,Webcam Hd,Eletrônicos,Logitech,Techdistribuidora,São Paulo,220,5,209.0,120,25080.0,70,Normal,4.5,Boa,Não,14630.0
+21,Micro-Ondas,Eletrodomésticos,Electrolux,Eletrolar,Salvador,700,10,630.0,27,17010.0,19,Alerta,4.4,Regular,Não,11970.0
+22,Guarda-Roupa,Moveis,Multimóveis,Moveisbr,Belo Horizonte,1500,15,1275.0,11,14025.0,9,Crítico,4.2,Regular,Não,11475.0
+23,Ventilador,Decoração,Arno,Luzlar,Curitiba,180,0,180.0,75,13500.0,55,Normal,4.1,Regular,Não,9900.0
+24,Aspirador De Pó,Eletrodomésticos,Philco,Eletrolar,Salvador,450,6,423.0,32,13536.0,23,Alerta,4.3,Regular,Não,9729.0
+25,Relógio Smartwatch,Eletrônicos,Xiaomi,Mobiletech,Campinas,350,10,315.0,85,26775.0,65,Normal,4.6,Boa,Não,20475.0
+26,Tablet 10 Pol,Eletrônicos,Samsung,Mobiletech,Campinas,1600,8,1472.0,37,54464.0,28,Alerta,4.5,Boa,Não,41216.0
+27,Cooktop 5 Bocas,Eletrodomésticos,Brastemp,Eletrolar,Salvador,1100,12,968.0,20,19360.0,14,Alerta,4.7,Excelente,Não,13552.0
+28,Poltrona Decorativa,Moveis,Hellen,Moveisbr,Belo Horizonte,950,18,779.0,9,7011.0,7,Crítico,4.8,Excelente,Não,5453.0
+29,Soundbar,Eletrônicos,Jbl,Audiomax,Rio De Janeiro,1300,10,1170.0,26,30420.0,16,Alerta,4.6,Boa,Não,18720.0
+30,Carregador Portátil,Eletrônicos,Anker,Importtech,Curitiba,140,5,133.0,160,21280.0,85,Normal,4.5,Boa,Não,11305.0
