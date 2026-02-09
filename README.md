@@ -52,6 +52,6 @@ pip install -r requirements.txt
 python python/etl_produtos.py
 ```
 ---
-##👨‍💻 Autor
+## 👨‍💻 Autor
 Thiago Marques
 🌐 https://thiagomarques.netlify.app/
