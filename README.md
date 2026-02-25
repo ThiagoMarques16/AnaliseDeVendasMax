@@ -1,5 +1,5 @@
 # 📊 Projeto BI — Distribuidora Max
-Este projeto simula um cenário real de uma distribuidora, onde uma base de dados bruta passa por um p---
+Este projeto simula um cenário real de uma distribuidora, onde uma base de dados bruta passa por um processo de limpeza e tratamento
 ##  🧠  Objetivo do Projeto
 - Qual categoria mais fatura?
 - Quais produtos são estratégicos para a empresa?
